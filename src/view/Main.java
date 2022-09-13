@@ -15,8 +15,8 @@ public class Main {
 		System.out.println("Calculadora");
 		calcu = new Calculator();
 		// TODO : INGRESO POR TECLADO
-		calcu.setA(2);
-		calcu.setB(1);
+		calcu.setA(7);
+		calcu.setB(7);
 
 		CalcuOperation calcuMashine = new CalcuOperation();
 		sum = calcuMashine.add(calcu.getA(), calcu.getB());

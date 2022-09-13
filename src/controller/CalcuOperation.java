@@ -10,15 +10,6 @@ public class CalcuOperation {
 	int a;
 	int b;
 
-	/*
-	 * public CalcuOperation(int a, int b) {
-	 * 
-	 * Calculator newMashine = new Calculator(); this.a = newMashine.getA(); this.b
-	 * = newMashine.getB();
-	 * 
-	 * };
-	 */
-
 	/**
 	 * Sum method.
 	 */
